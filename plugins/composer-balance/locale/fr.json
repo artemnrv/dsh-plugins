@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Solde dans la zone de saisie",
+    "description": "Affiche le solde du compte à côté des statistiques sous la zone de saisie et l’actualise pendant la conversation. Sans compte connecté, l’indicateur reste masqué."
+  }
+}

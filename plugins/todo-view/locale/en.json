@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "To do",
+    "description": "Adds a To do page with named task lists. The To do entry in the left sidebar opens the page: a Personal list starts you off, and the New list button adds another one. The circle marks a task done, a row's trash control deletes that task, and the trash control in a list's header deletes the whole list after an inline confirmation. Task order is priority: drag the grip at the left of a task, or press ↑/↓ on it. Everything is stored in this installation's local browser storage, so every session shows the same lists and they survive a reload or restart; nothing is synced to other computers or sent to the model."
+  }
+}

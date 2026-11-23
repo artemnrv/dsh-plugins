@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Composer balance",
+    "description": "Shows the topped-up account balance next to the token statistics under the message composer and refreshes it while you chat. It stays hidden while no account is signed in.",
+    "detail": "docs/DETAIL.md"
+  }
+}

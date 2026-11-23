@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Figma MCP (desktop server)",
+    "description": "Requires the Figma desktop app open with Dev Mode (Shift+D) and its MCP server enabled, and a Dev or Full seat. While Figma runs, connects http://127.0.0.1:3845/mcp and exposes read tools as mcp__figma__*: design context and generated code, layer outline, screenshots, variables and styles, Code Connect mappings, FigJam, and motion data. Tools disappear when Figma closes; the row retries for about 45 minutes, then turn the bundle off and on under Plugins. Read-only for design content: canvas writing, library search, and asset download need Figma's remote server, which this bundle does not connect. Turn the bundle off to remove the tools.",
+    "detail": "docs/DETAIL.md"
+  }
+}

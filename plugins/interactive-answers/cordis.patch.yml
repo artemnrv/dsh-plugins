@@ -1,0 +1,3 @@
+- insert:
+    - id: interactive-answers
+      name: '@local/interactive-answers'

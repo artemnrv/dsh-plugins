@@ -1,0 +1,17 @@
+# Figma desktop MCP server (Dev Mode). Read-only tools:
+# get_design_context, get_metadata, get_screenshot, get_variable_defs,
+# get_code_connect_map, add_code_connect_map, get_figjam, get_motion_context.
+# The server listens on localhost only while the Figma desktop app is running
+# with Dev Mode > MCP server enabled.
+- insert:
+    - id: figma-mcp
+      name: '@deepseek-ai/dsh-mcp-client'
+      config:
+        serverName: figma
+        transport: streamable-http
+        url: http://127.0.0.1:3845/mcp
+        startupTimeoutMs: 20000
+        failOnStartupError: false
+        reconnect:
+          enabled: true
+          maxAttempts: 100

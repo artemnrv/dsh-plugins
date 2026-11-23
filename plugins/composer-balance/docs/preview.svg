@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-label="Balance reading in the composer footer">
+  <rect x="60" y="48" width="520" height="176" rx="18" fill="none" stroke="#98A2B3" stroke-width="2"/>
+  <rect x="88" y="82" width="272" height="8" rx="4" fill="#B6BFCC"/>
+  <rect x="496" y="72" width="48" height="26" rx="13" fill="none" stroke="#B6BFCC" stroke-width="2"/>
+  <rect x="100" y="176" width="78" height="20" rx="10" fill="none" stroke="#B6BFCC" stroke-width="2"/>
+  <rect x="190" y="176" width="92" height="20" rx="10" fill="none" stroke="#B6BFCC" stroke-width="2"/>
+  <rect x="294" y="176" width="110" height="20" rx="10" fill="none" stroke="#4D6BFE" stroke-width="2"/>
+  <circle cx="311" cy="186" r="4.5" fill="#4D6BFE"/>
+  <rect x="322" y="183" width="26" height="6" rx="3" fill="#4D6BFE"/>
+  <rect x="354" y="183" width="30" height="6" rx="3" fill="#4D6BFE" opacity="0.45"/>
+  <rect x="428" y="183" width="62" height="6" rx="3" fill="#B6BFCC"/>
+  <circle cx="524" cy="186" r="8" fill="none" stroke="#B6BFCC" stroke-width="2.5" stroke-dasharray="34 16" transform="rotate(-90 524 186)"/>
+</svg>

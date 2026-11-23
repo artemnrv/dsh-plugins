@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Interactive answers",
+    "description": "Lets the agent compose one chat answer from prose plus visual blocks: sortable tables, captioned images, cards, and choice buttons. Blocks render inline in the order the agent writes them. Local controls (image zoom, table sorting) never leave the page; a choice button sends its option to the agent as the next chat message and is disabled after one press. Invalid or unknown blocks fall back to their plain-text version. No extra model requests are made; the plugin adds one short system-prompt section for every agent in this profile and one `ui_answer_blocks` tool for validating blocks and listing the session's image attachments."
+  }
+}

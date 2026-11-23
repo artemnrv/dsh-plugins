@@ -1,0 +1,3 @@
+- insert:
+    - id: claude-look
+      name: '@local/claude-look'

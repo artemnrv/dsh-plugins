@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Kontostand im Eingabefeld",
+    "description": "Zeigt den Kontostand neben den Token-Statistiken unter dem Eingabefeld und aktualisiert ihn während des Chats. Ohne angemeldetes Konto bleibt die Anzeige verborgen."
+  }
+}

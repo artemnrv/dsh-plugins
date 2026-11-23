@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Saldo en el compositor",
+    "description": "Muestra el saldo de la cuenta junto a las estadísticas del compositor y lo actualiza mientras chateas. Sin una cuenta conectada, el indicador no aparece."
+  }
+}

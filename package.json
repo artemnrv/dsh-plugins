@@ -1,0 +1,7 @@
+{
+  "name": "@local/dsh-plugins",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal DeepSeek Harness plugin bundles, installable from this repository by pinned Git spec.",
+  "type": "module"
+}
