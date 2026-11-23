@@ -38,11 +38,8 @@ Git copies update only through a Discover index that lists the new commit.
 
 ## Share
 
-The repository is **private**. To let a friend install these plugins, invite them on
-GitHub: **Settings → Collaborators → Add people**. Once they accept, the specs in
-[INSTALL.md](INSTALL.md) work for them as-is (they sign in to GitHub in their own
-browser). Making the repository public later would let anyone install the plugins
-without an invitation.
+The repository is **public**: anyone can install these plugins with the specs in
+[INSTALL.md](INSTALL.md) — signing in to GitHub is not required.
 
 ## Local check
 

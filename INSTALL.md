@@ -4,7 +4,7 @@ Pinned commit: `e8c32904531432f7d5a042ad581d90b87f3af737` (branch `main`).
 
 ## From a Git remote
 
-Published at `github.com/artemnrv/dsh-plugins` (private). For a fork or another host, replace `artemnrv` with that owner.
+Published at `github.com/artemnrv/dsh-plugins` (public). For a fork or another host, replace `artemnrv` with that owner.
 
 - `plugins/claude-look` — `git+https://github.com/artemnrv/dsh-plugins.git#e8c32904531432f7d5a042ad581d90b87f3af737&path:/plugins/claude-look`
 - `plugins/composer-balance` — `git+https://github.com/artemnrv/dsh-plugins.git#e8c32904531432f7d5a042ad581d90b87f3af737&path:/plugins/composer-balance`
