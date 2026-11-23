@@ -20,7 +20,7 @@ everything it needs at runtime (`index.js`, `client.js`, `locale/`, `icon.svg`, 
 Exact pinned specs per plugin are in [INSTALL.md](INSTALL.md). The general form is:
 
 ```
-git+https://github.com/<owner>/dsh-plugins.git#<full-40-char-commit>&path:/plugins/<directory>
+git+https://github.com/artemnrv/dsh-plugins.git#<full-40-char-commit>&path:/plugins/<directory>
 ```
 
 Paste a spec into **Plugins → Add plugin**, or run
@@ -35,6 +35,14 @@ with a newer commit through a Discover index.
 Change a plugin, commit, push, then install that plugin again with the new spec.
 Bundles installed from a tarball, a local path, or a link get no **Update** button;
 Git copies update only through a Discover index that lists the new commit.
+
+## Share
+
+The repository is **private**. To let a friend install these plugins, invite them on
+GitHub: **Settings → Collaborators → Add people**. Once they accept, the specs in
+[INSTALL.md](INSTALL.md) work for them as-is (they sign in to GitHub in their own
+browser). Making the repository public later would let anyone install the plugins
+without an invitation.
 
 ## Local check
 

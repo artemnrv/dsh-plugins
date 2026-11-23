@@ -4,13 +4,13 @@ Pinned commit: `e8c32904531432f7d5a042ad581d90b87f3af737` (branch `main`).
 
 ## From a Git remote
 
-Replace `OWNER` with the GitHub (or other host) owner after `git remote add origin … && git push`.
+Published at `github.com/artemnrv/dsh-plugins` (private). For a fork or another host, replace `artemnrv` with that owner.
 
-- `plugins/claude-look` — `git+https://github.com/OWNER/dsh-plugins.git#e8c32904531432f7d5a042ad581d90b87f3af737&path:/plugins/claude-look`
-- `plugins/composer-balance` — `git+https://github.com/OWNER/dsh-plugins.git#e8c32904531432f7d5a042ad581d90b87f3af737&path:/plugins/composer-balance`
-- `plugins/interactive-answers` — `git+https://github.com/OWNER/dsh-plugins.git#e8c32904531432f7d5a042ad581d90b87f3af737&path:/plugins/interactive-answers`
-- `plugins/figma-mcp` — `git+https://github.com/OWNER/dsh-plugins.git#e8c32904531432f7d5a042ad581d90b87f3af737&path:/plugins/figma-mcp`
-- `plugins/todo-view` — `git+https://github.com/OWNER/dsh-plugins.git#e8c32904531432f7d5a042ad581d90b87f3af737&path:/plugins/todo-view`
+- `plugins/claude-look` — `git+https://github.com/artemnrv/dsh-plugins.git#e8c32904531432f7d5a042ad581d90b87f3af737&path:/plugins/claude-look`
+- `plugins/composer-balance` — `git+https://github.com/artemnrv/dsh-plugins.git#e8c32904531432f7d5a042ad581d90b87f3af737&path:/plugins/composer-balance`
+- `plugins/interactive-answers` — `git+https://github.com/artemnrv/dsh-plugins.git#e8c32904531432f7d5a042ad581d90b87f3af737&path:/plugins/interactive-answers`
+- `plugins/figma-mcp` — `git+https://github.com/artemnrv/dsh-plugins.git#e8c32904531432f7d5a042ad581d90b87f3af737&path:/plugins/figma-mcp`
+- `plugins/todo-view` — `git+https://github.com/artemnrv/dsh-plugins.git#e8c32904531432f7d5a042ad581d90b87f3af737&path:/plugins/todo-view`
 
 ## From this checkout
 
